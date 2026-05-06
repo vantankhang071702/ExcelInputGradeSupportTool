@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSupportTool", "ExcelSupportTool.csproj", "{EB46569F-CE47-1480-16F2-B674491E5543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB46569F-CE47-1480-16F2-B674491E5543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB46569F-CE47-1480-16F2-B674491E5543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB46569F-CE47-1480-16F2-B674491E5543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB46569F-CE47-1480-16F2-B674491E5543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44652D75-F8F1-4EB7-8669-60B791284797}
+	EndGlobalSection
+EndGlobal
